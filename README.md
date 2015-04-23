@@ -1,7 +1,7 @@
-# RappleShots
-==============
+# [RappleShots by Ray](https://github.com/rayantony/RappleShots/)
+========================
 
-#### RappleShots are Ray's Apple IOS-ish Screenshots in Linux with Image Magick
+### [RappleShots](https://github.com/rayantony/RappleShots/) are Ray's Apple IOS-ish Screenshots in Linux with Image Magick
 
 ![Sample RappleShot&trade;](https://d39dlwgeopmdw0.cloudfront.net/assets/test/rappleshots/thrones_rappleshot.png)
 
@@ -23,7 +23,7 @@ Have Fun!
             style="width:236px; height:20px;" class="twitter-follow-button twitter-follow-button">
             </iframe>
        <p>copyright 2015 <a href="http://rayanthony.io">ray anthony </a> &copy; all applicable rights reserved all liabilities waived</p>
-       <p>  <a href="http://oneworldlicense.com"> oneworldlicense.com</a> means open source, free, and made with<i class="fi-heart" alt="made with love icon font ♡ "></i>< at Github/p>
+       <p>  <a href="http://oneworldlicense.com"> oneworldlicense.com</a> means open source, free, and made with♡at Github</p>
 
 
 
