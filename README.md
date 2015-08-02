@@ -18,11 +18,11 @@ Have Fun!
 - by ray anthony 
 @rayantony
 
- [twitter.com](http://platform.twitter.com/widgets/follow_button.html?screen_name=rayanthonyrcc)
+ [twitter.com](//platform.twitter.com/widgets/follow_button.html?screen_name=rayanthonyrcc)
  
- copyright 2015 [ray anthony](http://rayanthony.io)&copy; all applicable rights reserved all liabilities waived
+ copyright 2015 [ray anthony](//rayanthony.io)&copy; all applicable rights reserved all liabilities waived
  
- [oneworldlicense.com](http://oneworldlicense.com) means open source, free, and made with ♡ at Github
+ [oneworldlicense.com](//oneworldlicense.com) means open source, free, and made with ♡ at Github
 
 
 
