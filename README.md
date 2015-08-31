@@ -1,9 +1,9 @@
-# [RappleShots by Ray](https://github.com/rayantony/RappleShots/)
+#[RappleShots by Ray](https://github.com/deadflowers/RappleShots/)
 ========================
 
-### [RappleShots](https://github.com/rayantony/RappleShots/) are Ray's Apple IOS-ish Screenshots in Linux with Image Magick
+###[RappleShots](http://github.com/deadflowers/RappleShots/) are Ray's Apple IOS-ish Screenshots in Linux with Image Magick
 
-![Sample RappleShot&trade;](https://d39dlwgeopmdw0.cloudfront.net/assets/test/rappleshots/thrones_rappleshot.png)
+![Sample RappleShot &trade;](http://webmx.me/assets/test/rappleshots/thrones_rappleshot.png)
 
 My personal system of making *screenshots that don't suck* is designed for use with nautilus to give context menu click method of highlight and swift creation as in (1 click) processing, on multiple image files of various extensions into cool Apple IOS Style Screen shots. 
 
@@ -18,11 +18,11 @@ Have Fun!
 - by ray anthony 
 @rayantony
 
- [twitter.com](http://platform.twitter.com/widgets/follow_button.html?screen_name=rayanthonyrcc)
+ [twitter.com](//platform.twitter.com/widgets/follow_button.html?screen_name=rayanthonyrcc)
  
- copyright 2015 [ray anthony](http://rayanthony.io)&copy; all applicable rights reserved all liabilities waived
+ copyright 2015 [ray anthony](//rayanthony.io)&copy; all applicable rights reserved all liabilities waived
  
- [oneworldlicense.com](http://oneworldlicense.com) means open source, free, and made with ♡ at Github
+ [oneworldlicense.com](//oneworldlicense.com) means open source, free, and made with ♡ at Github
 
 
 
