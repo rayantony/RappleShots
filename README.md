@@ -15,9 +15,9 @@ gnome-screenshot -b -w -d 2 --border-effect=shadow
 ```
 should give you the active or current window with a drop shadow. 
 ```bash
-gnome-screenshot -b --border-effect-shadow -i 
+gnome-screenshot -b --border-effect=shadow -i 
 ```
-will do the same but operate with the gui control box for configss. And of course there are innumerable methods of setting defaults in your alias file in compiz 'ccsm' editor, gconf, the .desktop file etc.
+will do the same but operate with the gui control box for configs. And of course there are innumerable methods of setting defaults in your alias file in compiz 'ccsm' editor, gconf, the .desktop file etc.
 
 If though you want to have a separate processing solution to cover use cases where for instance the file is already made and not with the aforementioned options configured the simplest way is ImageMagick library. Here's the basic command 
 ```bash
@@ -28,11 +28,11 @@ Same as in my other forthcoming repo of ImageMagick automation. I f'n love image
 
 If you use Nautilus/Unity/Gnome then drop rappleshots.sh in $HOME/.gnome2/nautilus scripts/... 
 ```bash
-git clone https://github.com/rayantony/RappleShots.git
-cd RappleShots
-sudo cp rappleshots.sh $HOME/.gnome2/nautilus-scripts/rappleshot
-sudo chmod ug+rwx $HOME/.gnome2/nautilus-scripts/rappleshot
-sudo chown $USER:$USER $HOME/.gnome2/nautilus-scripts/rappleshot
+git clone https://github.com/rayantony/RappleShots.git && \
+cd RappleShots && \
+sudo cp rappleshots.sh $HOME/.gnome2/nautilus-scripts/rappleshot && \
+sudo chmod ug+rwx $HOME/.gnome2/nautilus-scripts/rappleshot && \
+sudo chown $USER:$USER $HOME/.gnome2/nautilus-scripts/rappleshot &&
 ```
 Depending on your packages which is outside the scope of this simple app, you should be good to go context menu right click action, and ready to deal in bulk!
 
@@ -49,7 +49,8 @@ or
 for pic in [your list or set];do . rappleshots.sh "$pic";done
 ```
 
-Or however you wish. Run it from github "curl" the [raw file](https://raw.githubusercontent.com/rayantony/RappleShots/master/rappleshots.sh) if it pleases, whatever. btw thats probably something like this: *export rappleit=`curl -L https://raw.githubusercontent.com/rayantony/RappleShots/master/rappleshots.sh|tail --lines 8`
+Or however you wish. Run it from github "curl" the [raw file](https://raw.githubusercontent.com/rayantony/RappleShots/master/rappleshots.sh) if it pleases, whatever. btw thats probably something like this: *export rappleit=`curl -L https://raw.githubusercontent.com/rayantony/RappleShots/master/rappleitrawfunc|tail --lines 8`
+ok, that needs some work to escape and add right or not worth the risk, moving on...
 
 The nice part really is to have the basic rappleshot line reachable when you need it as few would remember it syntactically unless they are imagemagick uber nerds. As well, to be able to have a way to abstract this handy item to take in x files process and rename appropriately the copies, which is the real value with this, the template.
 
