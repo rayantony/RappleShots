@@ -69,3 +69,7 @@ Have Fun!
 
 
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/rayantony/rappleshots/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
